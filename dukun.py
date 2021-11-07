@@ -12,7 +12,7 @@ print('''\033[91m
 ╱╱┃┃╱┃┃┃┃┃┃┃╱┃┃╭╯╰╮┃╭━━┫┃╱╭┫╭╮┃┃┃╭━╮
 ╱╱┃┃╱┃┃┃┃┃┃╰━╯┣╯╭╮╰┫┃╱╱┃╰━╯┃┃┃╰┫╰┻━┃
 ╱╱╰╯╱╰╯╰╯╰┻━━━┻━╯╰━┻╯╱╱╰━━━┻╯╰━┻━━━╯
-       CREATED BY HACKER BANGSAT-XD
+     💦CREATED BY HACKER BANGSAT-XD💦
 ''')
 def slowprint(s):
     for c in s + '\n' :
@@ -22,9 +22,9 @@ def slowprint(s):
 
 print (''' \033[95m
 💦--------------------------------------------💦
-| This Tool Install All Basic Packages       |
+| This Tool Install All Basic Packages        |
 💦--------------------------------------------💦
-| Coded By ☆RAKA☆™︻®╤───────═◍➤   v3.0|
+| Coded By ☆ RAKA ☆™︻®╤───────═◍➤    versi 3.0 |
 💦--------------------------------------------💦''')
 
 slowprint(''' \033[93m
